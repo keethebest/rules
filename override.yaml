@@ -1,2 +1,3 @@
 +rules:
   - "DOMAIN-SUFFIX,zed.dev,🇸🇬 新加坡"
+  - "DOMAIN-SUFFIX,googleapis.com,🇸🇬 新加坡"
