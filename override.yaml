@@ -1,3 +1,3 @@
 +rules:
   - "DOMAIN-SUFFIX,zed.dev,🇸🇬 新加坡"
-  - "DOMAIN-SUFFIX,googleapis.com,🇸🇬 新加坡"
+  - "DOMAIN-SUFFIX,generativelanguage.googleapis.com,🤖 ChatGPT、Claude、Gemini、微软AI"
