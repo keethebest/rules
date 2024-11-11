@@ -1,3 +1,7 @@
 +rules:
   - "DOMAIN-SUFFIX,zed.dev,🇸🇬 新加坡"
   - "DOMAIN-SUFFIX,generativelanguage.googleapis.com,🤖 ChatGPT、Claude、Gemini、微软AI"
+  - "DOMAIN-SUFFIX,dsp.com,🎯 全球直连"
+  - "DOMAIN-SUFFIX,mediav.cn,🎯 全球直连"
+  - "DOMAIN-SUFFIX,leo.cn,🎯 全球直连"
+  - "DOMAIN-SUFFIX,jswh.cn,🎯 全球直连"
